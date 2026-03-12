@@ -8,7 +8,7 @@ Ingredients for Crêpes
 
 Crêpes are easy to make with basic ingredients you likely already have on hand:
 
-![image of crepe](recipes/crepe image.jpg)
+![image of crepe](recipes/crepe_image.jpg)
 
 Flour: These basic French crêpes call for a cup of all-purpose flour.
 Eggs: Eggs act as a binder, which means they help hold the batter together.
