@@ -39,7 +39,7 @@ Crêpe Filling Ideas
 
 Crêpes can be filled and topped with almost anything you like. I like them with brown sugar or mapple sirop but the true Fosco style is with chocolater square melting while the crepe is still being cooked 
 
-
+![image of crepe](recipes/Crepe-vanille-et-tartinade-chocolat.jpg)
 
 ### ABSOLUTE BANGER
 
