@@ -4,7 +4,7 @@
 
 *Source:[Food](https://www.marmiton.org/recettes/recette_pate-a-crepes_12372.aspx)
 
-##*Leave the light side of the pankakes and join the dark side of the crepes*
+##*Leave the light side of the pankakes and join the dark side of the French crepes*
 
 Crêpes are very thin pancakes that can be served with a wide variety of sweet and savory fillings and toppings. The dish dates back to at least 13th-century France, and remains a breakfast and brunch favorite around the world.
 
