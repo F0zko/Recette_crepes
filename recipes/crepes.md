@@ -45,3 +45,6 @@ Crêpes can be filled and topped with almost anything you like. I like them with
 
 
 
+Test avec un gif très joli joli
+
+![make crepes](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc1MG11ZDU3dWRkbTg1aDB6c2tuMThrOTltcTRsbDhxNW5wYTNoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aJoykheaoQfCwuW5vP/giphy.gif)
