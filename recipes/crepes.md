@@ -33,5 +33,11 @@ Oil or Butter but for this one Oil is gucci !
 
 Crêpe Filling Ideas
 
-Crêpes can be filled and topped with almost anything you like. Popular sweet options include whipped cream with fresh fruit or strawberry sauce, chocolate-hazelnut spread (such as Nutella) or a drizzle of chocolate syrup. For savory ideas, try one of our savory crêpes with ham and cheese, creamy chicken, or veggie fillings.
+Crêpes can be filled and topped with almost anything you like. I like them with brown sugar or mapple sirop but the true Fosco style is with chocolater square melting while the crepe is still being cooked 
+
+![image of crepe](recipes/Crepe-vanille-et-tartinade-chocolat.jpg)
+
+### ABSOLUTE BANGER
+
+
 
